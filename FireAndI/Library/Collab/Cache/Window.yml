@@ -14,11 +14,92 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Scenes/SampleScene.unity
-    - Assets/Scripts/CharacterController.cs
+    - Assets/Hero Knight - Pixel Art.meta
+    - Assets/Hero Knight - Pixel Art/Animations.meta
+    - Assets/Hero Knight - Pixel Art/Animations/BlockFlash.anim
+    - Assets/Hero Knight - Pixel Art/Animations/BlockFlash.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/BlockFlash_AnimController.controller
+    - Assets/Hero Knight - Pixel Art/Animations/BlockFlash_AnimController.controller.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_AnimController.controller
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_AnimController.controller.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Attack1.anim
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Attack1.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Attack2.anim
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Attack2.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Attack3.anim
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Attack3.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Block.anim
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Block.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_BlockIdle.anim
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_BlockIdle.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_BlockNoEffect.anim
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_BlockNoEffect.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Death.anim
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Death.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_DeathNoBlood.anim
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_DeathNoBlood.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Fall.anim
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Fall.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Hurt.anim
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Hurt.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Idle.anim
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Idle.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_IdleBlock.anim
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_IdleBlock.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Jump.anim
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Jump.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_LedgeGrab.anim
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_LedgeGrab.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Roll.anim
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Roll.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Run.anim
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_Run.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_WallSlide.anim
+    - Assets/Hero Knight - Pixel Art/Animations/HeroKnight_WallSlide.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/SlideDust.anim
+    - Assets/Hero Knight - Pixel Art/Animations/SlideDust.anim.meta
+    - Assets/Hero Knight - Pixel Art/Animations/SlideDust.controller
+    - Assets/Hero Knight - Pixel Art/Animations/SlideDust.controller.meta
+    - Assets/Hero Knight - Pixel Art/ColorSwap.meta
+    - Assets/Hero Knight - Pixel Art/ColorSwap/ColorSwap.mat
+    - Assets/Hero Knight - Pixel Art/ColorSwap/ColorSwap.mat.meta
+    - Assets/Hero Knight - Pixel Art/ColorSwap/ColorSwap_HeroKnight.cs
+    - Assets/Hero Knight - Pixel Art/ColorSwap/ColorSwap_HeroKnight.cs.meta
+    - Assets/Hero Knight - Pixel Art/ColorSwap/Sprites-ColorSwap.shader
+    - Assets/Hero Knight - Pixel Art/ColorSwap/Sprites-ColorSwap.shader.meta
+    - Assets/Hero Knight - Pixel Art/ColorSwap/swap_texture.png
+    - Assets/Hero Knight - Pixel Art/ColorSwap/swap_texture.png.meta
+    - Assets/Hero Knight - Pixel Art/Environment.meta
+    - Assets/Hero Knight - Pixel Art/Environment/EnvironmentPalette_HeroKnight.prefab
+    - Assets/Hero Knight - Pixel Art/Environment/EnvironmentPalette_HeroKnight.prefab.meta
+    - Assets/Hero Knight - Pixel Art/Environment/EnvironmentTiles_0.asset
+    - Assets/Hero Knight - Pixel Art/Environment/EnvironmentTiles_0.asset.meta
+    - Assets/Hero Knight - Pixel Art/Environment/EnvironmentTiles_1.asset
+    - Assets/Hero Knight - Pixel Art/Environment/EnvironmentTiles_1.asset.meta
+    - Assets/Hero Knight - Pixel Art/Environment/EnvironmentTiles_2.asset
+    - Assets/Hero Knight - Pixel Art/Environment/EnvironmentTiles_2.asset.meta
+    - Assets/Hero Knight - Pixel Art/Environment/EnvironmentTiles_3.asset
+    - Assets/Hero Knight - Pixel Art/Environment/EnvironmentTiles_3.asset.meta
+    - Assets/Hero Knight - Pixel Art/Environment/Walls_noFriction.physicsMaterial2D
+    - Assets/Hero Knight - Pixel Art/Environment/Walls_noFriction.physicsMaterial2D.meta
+    - Assets/Hero Knight - Pixel Art/Sprites.meta
+    - Assets/Hero Knight - Pixel Art/Sprites/Background.png
+    - Assets/Hero Knight - Pixel Art/Sprites/Background.png.meta
+    - Assets/Hero Knight - Pixel Art/Sprites/BlockFlash.png
+    - Assets/Hero Knight - Pixel Art/Sprites/BlockFlash.png.meta
+    - Assets/Hero Knight - Pixel Art/Sprites/EnvironmentTiles.png
+    - Assets/Hero Knight - Pixel Art/Sprites/EnvironmentTiles.png.meta
+    - Assets/Hero Knight - Pixel Art/Sprites/HeroKnight.png
+    - Assets/Hero Knight - Pixel Art/Sprites/HeroKnight.png.meta
+    - Assets/Hero Knight - Pixel Art/Sprites/HeroKnight_BlockNoEffect.png
+    - Assets/Hero Knight - Pixel Art/Sprites/HeroKnight_BlockNoEffect.png.meta
+    - Assets/Hero Knight - Pixel Art/Sprites/HeroKnight_DeathNoBlood.png
+    - Assets/Hero Knight - Pixel Art/Sprites/HeroKnight_DeathNoBlood.png.meta
+    - Assets/Hero Knight - Pixel Art/Sprites/SlideDust.png
+    - Assets/Hero Knight - Pixel Art/Sprites/SlideDust.png.meta
     - 
-    m_Values: 010101
-  RevisionSummary: Agregado paquete HeroKing
+    m_Values: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: Assets Donwloaded
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
